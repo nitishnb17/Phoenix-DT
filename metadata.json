@@ -1,0 +1,7 @@
+{
+  "name": "PHOENIX-DT",
+  "description": "Predictive Health & Operational Engine Navigator — Digital Twin. Synthetic telemetry simulator, physics engine, explainable AI/ML diagnostic layer, and 3D spatial Ground Control Station.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
